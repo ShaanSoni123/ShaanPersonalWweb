@@ -1,10 +1,11 @@
-import Scene3D from './components/Scene3D'
+import Portfolio from './components/Portfolio'
+import './components/Portfolio.css'
 import './App.css'
 
 function App() {
   return (
     <div className="App">
-      <Scene3D />
+      <Portfolio />
     </div>
   )
 }
